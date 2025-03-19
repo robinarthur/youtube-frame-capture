@@ -1,0 +1,320 @@
+[
+    {
+        "frame": 0,
+        "file": "frame0.jpg",
+        "symbol": "ME",
+        "type": "initial"
+    },
+    {
+        "frame": 1,
+        "previous_file": "frame0.jpg",
+        "current_file": "frame10.jpg",
+        "from_symbol": "ME",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 118,
+        "previous_file": "frame1515.jpg",
+        "current_file": "frame1520.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 124,
+        "previous_file": "frame1545.jpg",
+        "current_file": "frame155.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 125,
+        "previous_file": "frame155.jpg",
+        "current_file": "frame1550.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 135,
+        "previous_file": "frame1595.jpg",
+        "current_file": "frame160.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 136,
+        "previous_file": "frame160.jpg",
+        "current_file": "frame1600.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 146,
+        "previous_file": "frame1645.jpg",
+        "current_file": "frame165.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 147,
+        "previous_file": "frame165.jpg",
+        "current_file": "frame1650.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 157,
+        "previous_file": "frame1695.jpg",
+        "current_file": "frame170.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 158,
+        "previous_file": "frame170.jpg",
+        "current_file": "frame1700.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 168,
+        "previous_file": "frame1745.jpg",
+        "current_file": "frame175.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 169,
+        "previous_file": "frame175.jpg",
+        "current_file": "frame1750.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 179,
+        "previous_file": "frame1795.jpg",
+        "current_file": "frame180.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 180,
+        "previous_file": "frame180.jpg",
+        "current_file": "frame1800.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 190,
+        "previous_file": "frame1845.jpg",
+        "current_file": "frame185.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 191,
+        "previous_file": "frame185.jpg",
+        "current_file": "frame1850.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 201,
+        "previous_file": "frame1895.jpg",
+        "current_file": "frame190.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 202,
+        "previous_file": "frame190.jpg",
+        "current_file": "frame1900.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 212,
+        "previous_file": "frame1945.jpg",
+        "current_file": "frame195.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 213,
+        "previous_file": "frame195.jpg",
+        "current_file": "frame1950.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 223,
+        "previous_file": "frame1995.jpg",
+        "current_file": "frame20.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 225,
+        "previous_file": "frame200.jpg",
+        "current_file": "frame2000.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 235,
+        "previous_file": "frame2045.jpg",
+        "current_file": "frame205.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 236,
+        "previous_file": "frame205.jpg",
+        "current_file": "frame2050.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 246,
+        "previous_file": "frame2095.jpg",
+        "current_file": "frame210.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 247,
+        "previous_file": "frame210.jpg",
+        "current_file": "frame2100.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 257,
+        "previous_file": "frame2145.jpg",
+        "current_file": "frame215.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 258,
+        "previous_file": "frame215.jpg",
+        "current_file": "frame2150.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 268,
+        "previous_file": "frame2195.jpg",
+        "current_file": "frame220.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 269,
+        "previous_file": "frame220.jpg",
+        "current_file": "frame2200.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 279,
+        "previous_file": "frame2245.jpg",
+        "current_file": "frame225.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 280,
+        "previous_file": "frame225.jpg",
+        "current_file": "frame2250.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 290,
+        "previous_file": "frame2295.jpg",
+        "current_file": "frame230.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 291,
+        "previous_file": "frame230.jpg",
+        "current_file": "frame2300.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 301,
+        "previous_file": "frame2345.jpg",
+        "current_file": "frame235.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 302,
+        "previous_file": "frame235.jpg",
+        "current_file": "frame2350.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 312,
+        "previous_file": "frame2395.jpg",
+        "current_file": "frame240.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    },
+    {
+        "frame": 313,
+        "previous_file": "frame240.jpg",
+        "current_file": "frame2400.jpg",
+        "from_symbol": "HE",
+        "to_symbol": "NE",
+        "type": "change"
+    },
+    {
+        "frame": 319,
+        "previous_file": "frame2425.jpg",
+        "current_file": "frame245.jpg",
+        "from_symbol": "NE",
+        "to_symbol": "HE",
+        "type": "change"
+    }
+]

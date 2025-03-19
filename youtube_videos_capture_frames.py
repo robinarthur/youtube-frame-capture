@@ -15,7 +15,7 @@ stream = CamGear(
 
 # this should be the path where u want ur images
 # path  = 'C:\\Users\\user\\Desktop\\Capture Frames from Online YouTube Video\\cars\\'
-path = "D:\\github codes\\test\\"
+path = "D:\\dataset\\test\\"
 
 currentframe = 0
 while True:
