@@ -20,13 +20,13 @@ args = parser.parse_args()
 path = args.destination
 source = args.videolink
 show_frame = args.showframe
-skip_frames = args.skip_frame
+skip_frames = args.skip_frames
 
 time_start = time.time()
 
 stream = CamGear(
     source=source,
-    yt_dlp_format="312",
+    yt_dlp_format="311",
     stream_mode=True,
     time_delay=1,
     logging=True,
